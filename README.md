@@ -1,4 +1,4 @@
-### Various shell scripts for administration tastks.
+### Various shell scripts for administration tasks.
 
 Script Name  | Explanation
 ------------- | -------------
