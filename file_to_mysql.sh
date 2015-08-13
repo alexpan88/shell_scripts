@@ -6,6 +6,7 @@ echo -ne 'Enter the mysql user: '
 read user
 echo -ne 'Enter the mysql user'\''s password: '
 read -s pass
+echo
 echo -ne 'Enter the database name: '
 read db
 echo -ne 'Enter the sql file path: '
